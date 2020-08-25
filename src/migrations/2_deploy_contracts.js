@@ -1,5 +1,5 @@
 const nft = artifacts.require("./token/NFT.sol");
-const marsToken = artifacts.require("./token/marsToken.sol");
+const marsToken = artifacts.require("./token/MarsToken.sol");
 const fs = require("fs");
 
 var result = {};
