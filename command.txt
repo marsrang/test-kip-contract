@@ -1,0 +1,11 @@
+npm install -g truffle
+npm install -g truffle-hdwallet-provider-klaytn
+
+(
+    if permission denied.
+
+    yarn add truffle
+    yarn add truffle-hdwallet-provider-klaytn
+)
+
+truffle deploy --reset --network klaytn
